@@ -1,0 +1,12 @@
+/* Performance.css */
+.chart-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.chart-wrapper {
+  width: 100%;
+  max-width: 900px;
+  min-width: 300px;
+}

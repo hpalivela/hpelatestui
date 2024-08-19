@@ -1,0 +1,60 @@
+/* .navbar {
+    /* display: flex; */
+    /* justify-content: space-between; or use space-between */
+    /* background-color: black; */
+    /* color: white; */
+    /* text-align: center; */
+    /* padding: 10px; */
+  /* } */ */
+  
+  .nav-link {
+    color: white;
+    text-decoration: none;
+   
+    /* font-size: 1.5rem; */
+  }
+  
+  .nav-link:hover {
+    color: red;
+  }
+
+.but{
+    background-color: transparent;
+    color:white;
+    border-style:solid;
+    border-color: white;
+    border-radius: 5px;
+    border-width: 0px;
+}
+.but:hover{
+  color:red;
+}
+.d-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.divider {
+  /* margin-right: 50px; */
+  margin-left: 5px;
+  width: 5px;
+  background-color: #ddd;
+  cursor: ew-resize;
+}
+
+/* .Card1, .Card2, .Card3, .Card4 {
+  background-color: white;
+  margin: 5px;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+} */
+
+.Card1, .Card2 {
+  /* Additional styles as needed */
+}
+
+.Card3, .Card4 {
+  /* Additional styles as needed */
+}
+

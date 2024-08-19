@@ -1,0 +1,9 @@
+
+.vertical2{
+    border-left: 1px solid gainsboro;
+    height: 100%;
+    /* position:relative; */
+    /* left: 44%; */
+    /* top:10%; */
+    padding: 10px;
+  }

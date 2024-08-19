@@ -1,0 +1,26 @@
+.appIcon{
+    /* font-size: 20px; */
+    margin-top: 15px;
+    font-weight: normal;
+}
+.justify-between {
+    justify-content: space-between;
+  }
+  .vertical {
+    border-left: 1px solid gainsboro;
+    height: 220px;
+    position:absolute;
+    left: 44%;
+    top:10%;
+  }
+  .divide{
+    margin-top: 12px;
+    margin-left: 20px;
+  }
+  .sub-text {
+    position: absolute;
+    bottom: 80%;
+    left: 60%;
+    font-size: 11px;
+    top:15%;
+}

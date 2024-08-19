@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+  }
+  
+  .resizable {
+    /* background-color: lightblue; */
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2em;
+  }
+  
+  .divider {
+    width: 20px;
+    background-color: blue;
+    cursor: ew-resize;
+    height: 100%;
+    position: relative;
+  }
+  

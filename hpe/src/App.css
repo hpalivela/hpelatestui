@@ -1,0 +1,61 @@
+.Card1{
+  background-color:white;
+  /* height:280px; */
+  /* width:99%;  */
+  padding-left: 10px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: white;
+  margin-left: 10px;
+  margin-top: 5px;
+  /* overflow-x: scroll; */
+}
+.Card2{
+  background-color:white;
+  /* width:62%; */
+  /* height:73%; */
+  padding-left: 25px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: white;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.Card3{
+  background-color:white;
+  /* width:39vw; */
+  height:79.5%;
+  /* height:92vh; */
+  /* margin-top: 8px; */
+  padding:25px;
+  /* padding-top: 25px;
+  padding-left: 25px; */
+  border-style: solid;
+  border-radius: 10px;
+  border-color: white;
+  margin-left: 5px;
+  margin-top: 5px;
+  /* margin:5px; */
+}
+.Card4{
+  background-color:white;
+   /* width:104%; */
+  height:19%;
+  margin-top: 5px;
+  padding-left: 25px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: white;
+  margin-left: 5px;
+  /* margin-top: 10px; */
+}
+/* .Card5{
+  background-color:white;
+  width:28%;
+  padding-left: 25px;
+  border-style: solid;
+  border-radius: 10px;
+  border-color: white;
+  margin-left: 5px;
+  margin-top: 5px;
+} */

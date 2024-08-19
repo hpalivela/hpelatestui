@@ -1,0 +1,65 @@
+.Array {
+    /* text-align: end; */
+    /* padding-top: 5px; */
+    /* padding-left:120px; */
+}
+  .Array > * {
+    /* margin: 0 auto; */
+  }
+  
+.array1{
+    /* padding-right: 40px; */
+    /* padding-left:105px; */
+    padding-top: 20px;
+}
+.greenHeart{
+    font-size: 36px;
+    color:green;
+}
+.redHeart{
+    font-size: 36px;
+    color:red;
+}
+.orangeHeart{
+    font-size: 36px;
+    color:orange;
+}
+@keyframes greenHeart {
+    0%{
+        transform: scale(1.15);
+    }
+}
+@keyframes redHeart {
+    0%{
+        opacity: 1;
+    }
+    50%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+@keyframes orangeHeart {
+    0%{
+        opacity: 1;
+    }
+    50%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+.greenHeart {
+    animation: greenHeart 1.5s infinite alternate;
+}
+
+.redHeart {
+    animation: redHeart 0.5s infinite alternate;
+}
+.orangeHeart {
+    animation: orangeHeart 1s infinite alternate;
+}
+
+

@@ -1,0 +1,42 @@
+.pieCard {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 12px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 24vw;
+    margin-top: 5px;
+    padding-top: 30px;
+    margin-bottom: 6px;
+}
+
+.pieChartContainer {
+    height: 200px;
+    margin-top: 60px;
+}
+
+/* .diag-pie {
+    padding: 20px;
+    /* text-align: center; */
+/* } */
+
+/* .pie-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.pie-card {
+    flex: 1;
+    min-width: 300px;
+    max-width: 400px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 20px;
+    background-color: white;
+}
+
+.pie-chart-container {
+    margin: 0 auto;
+} */
+

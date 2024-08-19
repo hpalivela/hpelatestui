@@ -1,0 +1,24 @@
+.chart-wrapper {
+  height: 300px;
+  width: 100%;
+  max-width: 900px; /* Optional: Adjust based on your needs */
+  margin: 0 auto; /* Center the chart if you want */
+}
+
+@media (max-width: 1200px) {
+  .chart-wrapper {
+    max-width: 750px;
+  }
+}
+
+@media (max-width: 992px) {
+  .chart-wrapper {
+    max-width: 600px;
+  }
+}
+
+@media (max-width: 768px) {
+  .chart-wrapper {
+    max-width: 100%;
+  }
+}
